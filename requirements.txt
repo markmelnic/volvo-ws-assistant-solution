@@ -1,0 +1,7 @@
+psycopg2-binary
+pydantic
+python-dotenv
+SQLAlchemy
+starlette
+uvicorn
+httpx
